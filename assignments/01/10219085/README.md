@@ -8,6 +8,6 @@ NIM  <fill your student identification number>
 ## answer
 
 ```
-NAME <Meyke Putri Dalla>
-NIM  <10219085>
+NAME Meyke Putri Dalla
+NIM  10219085
 ```
