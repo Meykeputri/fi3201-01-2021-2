@@ -20,7 +20,13 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### anwser 1
 Hasil kode di atas adalah
 ```
+Traceback (most recent call last):
+  File "HelloWorld.py", line 10, in <module>
+    s += char
+NameError: name 'char' is not defined
 ```
+
+Tested at OneCompiler [3xr4deg23](https://onecompiler.com/python/3xr4deg23)
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
@@ -67,5 +73,6 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
-+ ..
++ html digunakan untuk mengelola suatu data
++ unescape digunakan pada string yang disandikan
++ Kode setelah penggunaan unescape adalah unicode character. Pada char1 yang terbentuk adalah kotak persegi putih dengan jumlah yang sesuai dengan angka pada NIM, sementara itu pada char2 yang muncul berwarna hitam
