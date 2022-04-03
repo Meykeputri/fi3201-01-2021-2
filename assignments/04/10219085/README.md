@@ -126,7 +126,7 @@ else:
 	plt.show()
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](assignment-04.gif)
 
 
 ## question 3
