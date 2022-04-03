@@ -72,9 +72,9 @@ yang dapat diperoleh di <https://jakevdp.github.io/downloads/code/basic_animatio
 Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/> atau pada pertemuan kuliah terkait.
 
 ### answer 1
-Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
+Apakah penjelasan kode diatas sudah dibaca atau hadir pada kuliah?
 ```
-Kode diatas berffungsi untuk memvisualisasikan suatu keadaan gelombang yang berosilasi pada arah tegak lurus sumbu x dan merambat pada sumbu x.
+Kode diatas berfungsi untuk memvisualisasikan suatu keadaan gelombang yang berosilasi pada arah tegak lurus sumbu x dan merambat pada sumbu x.
 ```
 
 ## question 2
